@@ -1,0 +1,29 @@
+
+
+.edito {
+    width:500px;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translateX(-50%) translateY(-50%);
+    box-shadow: 0 10px 20px rgba(0,0,0, 0.19);
+}
+    .editheader{
+    background-color: rgb(250, 248, 250);
+    padding: 5px;
+    height: 50px;
+}
+.editheader .bton {
+    border: none;
+    outline: none;
+    background-color: transparent;
+    margin-right: 5px;
+}
+.editor1 {
+    height: 200px;
+    border: 20px solid black;
+    background-color: rgb(100, 59, 141);
+    border-top: 10px;
+    padding: 30px;
+}
+
